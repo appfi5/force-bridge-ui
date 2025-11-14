@@ -6,7 +6,7 @@ on:
       - feature/ci
 
 env:
-  IMAGE_NAME: registry.devops.rivtower.com/magickbase/nervos/force-bridge-ui
+  IMAGE_NAME: registry.devops.rivtower.com/app5/magickbase-nervos-force-bridge-ui
 
 jobs:
   build-and-push:
